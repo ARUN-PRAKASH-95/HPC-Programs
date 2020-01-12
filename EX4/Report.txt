@@ -1,0 +1,7 @@
+The given mandelbrot set program is optimised by breaking the for loop which runs 100000 times when the absolute value exceeds the threshold,
+because it stops the loop from doing unwanted iterarions.
+
+Time consumed by the program before and after optimising
+
+Before Optimising -  8.44 seconds
+After Optimising -  1.08 seconds
